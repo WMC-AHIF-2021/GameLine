@@ -1,7 +1,7 @@
 # Beschreibung des Projekts
 ## Das Team:
 * Werner Michael
-* Atzelsberger Samuel
+* Atzlesberger Samuel
 * Reingruber Bernhard
 
 ## Was machen wir:
