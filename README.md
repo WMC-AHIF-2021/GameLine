@@ -1,20 +1,12 @@
+# Beschreibung des Projekts
+## Das Team:
+* Werner Michael
+* Atzelsberger Samuel
+* Reingruber Bernhard
 
-# GameLine
-
-## Team
-
-Our Team is built of: 
-* Werner
-    * Michi
-* Atzlesberger
-    * Samuel
-* Reingruber
-    * Bernhard
-
-
-1. Item1 
-2. Item2
-
-This is **bold** and this is *italics*
-
-![Freistädter Bier](bier.jpg)
+## Was machen wir:
+* Eine TimeLine auf der die bekanntesten 3D-Spiele der Reihe nach (wie sie erschienen sind) aufgelistet sind...
+* Es wird zu jedem Spiel auf der TimeLine eine aufklapbare Seite geben...
+* Die Aufklapbaren Seiten werden Links beinhalten die zu den Spielen führt...
+* Zu jedem Spiel werden die wichtigsten Informationen zusammengefasst und aufgelistet
+* Am Ende werden wir unser eigenens kleines Spiel Programmiern...
