@@ -1,0 +1,34 @@
+html{
+    background-image: url("backgroundGameline.png");
+}
+html.AntAttack{
+    background-image: url("antattack.jpg");
+    background-size: 100%;
+    background-position: center;
+}
+h1.a{
+    color: blue;
+    text-align: center;
+}
+a.indexA{
+    background-color: whitesmoke;
+    size: 30px;
+}
+a.indexA:visited{
+    color:green;
+}
+a.indexA:link{
+    color:hotpink;
+}
+h1.AntAttack{
+    color: red;
+    text-align: center;
+}
+body.AntAttack{
+    color:white;
+    font-size:large;
+}
+
+
+
+
