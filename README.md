@@ -1,4 +1,4 @@
-# Beschreibung des Projekts
+# Discription
 ## Our team:
 * Werner Michael
 * Atzlesberger Samuel
@@ -13,6 +13,7 @@ Werner Michael
 * The fold-out pages will contain links to the games
 * The most important information is summarized and listed for each game
 * In the end we will program our own little game
-#
-> More infos will follow
+
+## Deadlines
+
 
