@@ -13,11 +13,13 @@ body{
 table, th, td{
     border: 1px solid rgb(231, 102, 102);
     border-collapse: collapse;
+    width: 35%;
+    text-align: center;
 }
-
-img.a{
-    position: relative;
-    width: 450px;
-    left: 1150px;
-    bottom: 200px;
+th.a{
+    background-color: rgb(231, 102, 102);
+}
+#a{
+    width: 30%;
+    float: right;
 }
