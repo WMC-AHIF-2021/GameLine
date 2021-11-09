@@ -17,6 +17,7 @@ table, th, td{
 
 img.a{
     position: relative;
-    width: 10cm;
-    left: 17cm;
+    width: 450px;
+    left: 1150px;
+    bottom: 200px;
 }
