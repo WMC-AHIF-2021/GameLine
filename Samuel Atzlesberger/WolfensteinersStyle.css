@@ -1,0 +1,21 @@
+html{
+    background-image: url("../html/backgroundGameline.png");
+    background-position: center;
+    color:white;
+}
+
+h1.a{
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(226, 0, 0);
+}
+
+p.f
+{
+    text-align: center;
+    color: rgb(177, 74, 74);
+}
+
+img.d{
+    float:center;
+}
