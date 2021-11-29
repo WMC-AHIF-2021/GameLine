@@ -3,7 +3,7 @@ html{
     background-position: center;
 }
 h1{
-    color: red;
+    color: rgb(231, 69, 69);
     text-align: center;
 }
 body{
@@ -11,10 +11,15 @@ body{
     font-size:large;
 }
 table, th, td{
-    border: 1px solid red;
+    border: 1px solid rgb(231, 102, 102);
     border-collapse: collapse;
+    width: 35%;
+    text-align: center;
 }
-img.a{
-    position: relative;
-    
+th.a{
+    background-color: rgb(231, 102, 102);
+}
+#a{
+    width: 30%;
+    float: right;
 }
