@@ -16,6 +16,25 @@ a.indexA:visited{
 a.indexA:link{
     color:hotpink;
 }
+.eins {
+	fill: #dfac20;
+	stroke: #306f91;
+	stroke-width: 4;
+}
+.zwei {
+	fill: #c32e04;
+    position: relativ;
+    z-index: 99;
+}
+
+.drei {
+	fill: none;
+	stroke: #306f91;
+	stroke-width: 95;
+	stroke-dasharray: 3 5 8 13;
+}
+
+
 
 
 
