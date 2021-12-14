@@ -23,3 +23,13 @@ th.a{
     width: 30%;
     float: right;
 }
+#linkA:visited{
+    color:green;
+}
+#linkA:link{
+    color: hotpink;
+}
+div.divOne{
+    background-color: grey;
+    width: 250px;
+}
