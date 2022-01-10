@@ -1,21 +1,50 @@
 html{
-    background-image: url("../html/backgroundGameline.png");
-    background-position: center;
     color:white;
 }
 
-h1.a{
+div.a{
     text-align: center;
-    font-size: xx-large;
-    color:rgb(226, 0, 0);
+    background-color: rgba(107, 107, 107, 0.096);
+    font-size: 65px;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    font-size: 26px;
 }
+
 
 p.f
 {
     text-align: center;
-    color: rgb(177, 74, 74);
+   font-size: 25px;
+    color: rgb(120, 120, 167);
+}
+
+h2.c
+{
+    color: rgb(127, 127, 192);
+}
+h2.f
+{
+    
 }
 
 img.d{
-    float:center;
+    float: right;
+    position: end;
+    height: 350px;
+    width: 500px;
+}
+table.x{
+    height: 50px;
+    width: 20px;
+
+}
+div.Picture-position{
+    padding: 3em;           
+    float: right; 
+    width: 50%;    
+    box-sizing: border-box;             
+}
+div.carousel-position{
+    min-height: 30em;
 }
