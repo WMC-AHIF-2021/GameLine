@@ -1,5 +1,5 @@
 h1{
-    color: rgb(231, 69, 69);
+    color: rgb(223, 195, 41);
     text-align: center;
 }
 body{
@@ -7,13 +7,13 @@ body{
     font-size:large;
 }
 table, th, td{
-    border: 1px solid rgb(231, 102, 102);
+    border: 1px solid rgb(223, 195, 41);
     border-collapse: collapse;
-    width: 35%;
+    width: 60%;
     text-align: center;
 }
 th.a{
-    background-color: rgb(231, 102, 102);
+    background-color: rgb(223, 195, 41);
 }
 #a{
     width: 30%;
@@ -28,4 +28,17 @@ th.a{
 div.divOne{
     background-color: grey;
     width: 250px;
+}
+div.main-div{
+    padding: 3em;     
+    float: right;    
+    width: 50%;    
+    box-sizing: border-box; 
+}
+div.rigthside{
+    min-height: 30em;
+    float: right;
+}
+div.leftside{
+    float: left;
 }
