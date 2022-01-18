@@ -1,13 +1,9 @@
-html{
-    background-image: url("../html/backgroundGameline.png");
-    background-position: center;
-}
 h1{
     color: rgb(231, 69, 69);
     text-align: center;
 }
 body{
-    color:white;
+    color:black;
     font-size:large;
 }
 table, th, td{
@@ -22,4 +18,14 @@ th.a{
 #a{
     width: 30%;
     float: right;
+}
+#linkA:visited{
+    color:green;
+}
+#linkA:link{
+    color: hotpink;
+}
+div.divOne{
+    background-color: grey;
+    width: 250px;
 }
