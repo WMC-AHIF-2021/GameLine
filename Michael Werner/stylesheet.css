@@ -6,7 +6,7 @@ td.column{
     width: 50%;
 }
 div.Picture-position{
-    padding: 3em;           
+    padding: 4em;           
     float: left; 
     width: 50%;    
     box-sizing: border-box;             
@@ -21,6 +21,9 @@ div.textBox{
 }
 body{
     font-size: 14px;
+    
 }
+
+
 
 
