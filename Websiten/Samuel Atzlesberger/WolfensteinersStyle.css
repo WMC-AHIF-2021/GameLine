@@ -22,11 +22,8 @@ p.f
 h2.c
 {
     color: rgb(127, 127, 192);
-}
-h2.f
-{
-    
-}
+} 
+
 
 img.d{
     float: right;
@@ -40,11 +37,16 @@ table.x{
 
 }
 div.Picture-position{
-    padding: 3em;           
-    float: right; 
+    padding: 4em;           
+    float: left; 
     width: 50%;    
     box-sizing: border-box;             
 }
 div.carousel-position{
     min-height: 30em;
+}
+div.textBox{
+    float: left; 
+    width: 50%;
+    box-sizing: border-box;
 }
