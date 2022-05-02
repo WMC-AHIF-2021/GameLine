@@ -1,44 +1,26 @@
-h1{
-    color: rgb(223, 195, 41);
-    text-align: center;
+
+th{
+    text-align: center;    
+}
+td.column{
+    width: 50%;
+}
+div.Picture-position{
+    padding: 4em;           
+    float: left; 
+    width: 50%;    
+    box-sizing: border-box;             
+}
+div.carousel-position{
+    min-height: 30em;
+}
+div.textBox{
+    float: left; 
+    width: 50%;
+    box-sizing: border-box;
 }
 body{
-    color:black;
-    font-size:large;
+    font-size: 14px;
 }
-table, th, td{
-    border: 1px solid rgb(223, 195, 41);
-    border-collapse: collapse;
-    width: 60%;
-    text-align: center;
-}
-th.a{
-    background-color: rgb(223, 195, 41);
-}
-#a{
-    width: 30%;
-    float: right;
-}
-#linkA:visited{
-    color:green;
-}
-#linkA:link{
-    color: hotpink;
-}
-div.divOne{
-    background-color: grey;
-    width: 250px;
-}
-div.main-div{
-    padding: 3em;     
-    float: right;    
-    width: 50%;    
-    box-sizing: border-box; 
-}
-div.rigthside{
-    min-height: 30em;
-    float: right;
-}
-div.leftside{
-    float: left;
-}
+
+
