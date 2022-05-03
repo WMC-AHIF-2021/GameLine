@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 th{
     text-align: center;    
@@ -22,3 +23,29 @@ div.textBox{
 body{
     font-size: 14px;
 }
+=======
+
+th{
+    text-align: center;    
+}
+td.column{
+    width: 50%;
+}
+div.Picture-position{
+    padding: 4em;           
+    float: left; 
+    width: 50%;    
+    box-sizing: border-box;             
+}
+div.carousel-position{
+    min-height: 30em;
+}
+div.textBox{
+    float: left; 
+    width: 50%;
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+}
+>>>>>>> 1e7ef49355869ee9925541cb7a382d71cf442ca0
