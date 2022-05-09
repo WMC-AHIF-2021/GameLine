@@ -84,6 +84,9 @@ div.textBox{
     width: 50%;
     box-sizing: border-box;
 }
-div.hawara{
-    background-image: url(../GameLine/Images/3GameLine_Logo.JPG);
+.abc{
+    margin-top: 5%;
+    margin-left: 20%;
+    width: 60%;
+    height: 30%;
 }
