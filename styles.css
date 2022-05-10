@@ -76,14 +76,23 @@ div.Picture-position{
     width: 50%;    
     box-sizing: border-box;             
 }
+
 div.carousel-position{
     min-height: 30em;
 }
 div.textBox{
-    float: left; 
+    /*float: left;*/
+    margin-left: 1%;
     width: 50%;
     box-sizing: border-box;
 }
-div.hawara{
-    background-image: url(../GameLine/Images/3GameLine_Logo.JPG);
+
+.abc{
+    float: inline-end;
+    margin-top: 3%;
+    /*margin-right: 2%;
+    /*margin-top: 20%;
+    margin-left: 60%;*/
+    width: 40%;
+    height: 50%;
 }

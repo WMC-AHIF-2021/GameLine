@@ -2,7 +2,6 @@
 ## Our team:
 * Werner Michael
 * Atzlesberger Samuel
-* Reingruber Bernhard
 
 ## Our Leader:
 Werner Michael
