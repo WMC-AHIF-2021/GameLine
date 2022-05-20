@@ -1,7 +1,7 @@
 
 body{
     /*:#eee;*/
-    background-image: url("background.jpg");
+
     font-size: 14px;
 }
 .hori-timeline .events {
@@ -88,7 +88,7 @@ div.textBox{
 }
 
 .abc{
-    float: inline-end;
+    float: right;
     margin-top: 3%;
     /*margin-right: 2%;
     /*margin-top: 20%;
