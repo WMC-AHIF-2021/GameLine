@@ -2,11 +2,20 @@
 body{
     /*:#eee;*/
 
+    /*background-image: url("../GameLine/Images/Fastweiß.jpg");*/
+
     font-size: 14px;
+    height: 100%;
+     background: radial-gradient(rgb(211, 212, 193),rgb(230, 230, 180));
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
 }
+
 .hori-timeline .events {
-    border-top: 3px solid #e9ecef;
+    border-top: 3px solid hsl(206, 33%, 96%);
 }
+
 .hori-timeline .events .event-list {
     display: block;
     position: relative;
@@ -14,13 +23,15 @@ body{
     padding-top: 70px;
     margin-right: 0;
 }
+
 .hori-timeline .events .event-list:before {
     content: "";
     position: absolute;
     height: 36px;
-    border-right: 2px dashed #dee2e6;
+    border-right: 2px dashed hsl(210, 57%, 79%);
     top: 0;
 }
+
 .hori-timeline .events .event-list .event-date {
     position: absolute;
     top: 38px;
@@ -31,6 +42,7 @@ body{
     border-radius: 4px;
     padding: 2px 4px;
 }
+
 @media (min-width: 1140px) {
     .hori-timeline .events .event-list {
         display: inline-block;
@@ -41,23 +53,28 @@ body{
         top: -12px;
     }
 }
+
 .bg-soft-primary {
-    background-color: rgba(64,144,203,.3)!important;
+    background-color: rgba(107, 167, 187, 0.3)!important;
 }
+
 .bg-soft-success {
-    background-color: rgba(71,189,154,.3)!important;
+    background-color: rgba(40, 65, 57, 0.3)!important;
 }
+
 .bg-soft-danger {
     background-color: rgba(231,76,94,.3)!important;
 }
+
 .bg-soft-warning {
     background-color: rgba(249,213,112,.3)!important;
 }
+
 .card {
     border: none;
     margin-bottom: 24px;
-    webkit-box-shadow: 0 0 13px 0 rgba(236,236,241,.44);
-    box-shadow: 0 0 13px 0 rgba(236,236,241,.44);
+    webkit-box-shadow: 0 0 13px 0 rgba(93, 96, 63, 0.44);
+    box-shadow: 0 0 13px 0 rgba(69, 74, 42, 0.44);
 }
 
 .a{
@@ -80,19 +97,27 @@ div.Picture-position{
 div.carousel-position{
     min-height: 30em;
 }
+
 div.textBox{
     /*float: left;*/
-    margin-left: 1%;
+    text-align: center;
+    margin-left: 20%;
     width: 50%;
-    box-sizing: border-box;
+   
 }
 
 .abc{
     float: right;
+    image-rendering: crisp-edges;
+    float: inline-end;
     margin-top: 3%;
-    /*margin-right: 2%;
-    /*margin-top: 20%;
-    margin-left: 60%;*/
     width: 40%;
     height: 50%;
+}
+
+.renderForBox{
+    background: radial-gradient(rgb(255, 255, 255), rgb(211, 211, 203));
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
 }

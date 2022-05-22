@@ -16,4 +16,16 @@ user-select: none;
 .a{
     //background-image: url();
 }
+body{
+    /*:#eee;*/
+
+    /*background-image: url("../GameLine/Images/Fastweiß.jpg");*/
+
+    font-size: 14px;
+    height: 100%;
+    background: radial-gradient(rgb(211, 212, 193),rgb(230, 230, 180));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
     

@@ -1,4 +1,37 @@
-<<<<<<< HEAD
+
+
+th{
+    text-align: center;    
+}
+td.column{
+    width: 50%;
+}
+div.Picture-position{
+    padding: 4em;           
+    float: left; 
+    width: 50%;    
+    box-sizing: border-box;             
+}
+div.carousel-position{
+    min-height: 30em;
+}
+div.textBox{
+    float: left; 
+    width: 50%;
+    box-sizing: border-box;
+}
+body{
+    /*:#eee;*/
+
+    /*background-image: url("../GameLine/Images/Fastweiß.jpg");*/
+
+    font-size: 14px;
+    height: 100%;
+    background: radial-gradient(rgb(211, 212, 193),rgb(230, 230, 180));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 
 th{
     text-align: center;    
@@ -23,29 +56,4 @@ div.textBox{
 body{
     font-size: 14px;
 }
-=======
 
-th{
-    text-align: center;    
-}
-td.column{
-    width: 50%;
-}
-div.Picture-position{
-    padding: 4em;           
-    float: left; 
-    width: 50%;    
-    box-sizing: border-box;             
-}
-div.carousel-position{
-    min-height: 30em;
-}
-div.textBox{
-    float: left; 
-    width: 50%;
-    box-sizing: border-box;
-}
-body{
-    font-size: 14px;
-}
->>>>>>> 1e7ef49355869ee9925541cb7a382d71cf442ca0
