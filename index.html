@@ -19,13 +19,49 @@
 
 
 <body class="OnlyMain">
-    <div class="container-fluid" >
-               
-        
 
+    <div class="container-fluid" >
+
+        <nav class="navbar navbar-light fixed-top" style="background-color:rgb(215, 215, 191); margin-left: 0.75%; margin-right: 0.75%; border: 15%;">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html" id="logoName"><mark>GameLine</mark></a>
+                
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="offcanvas offcanvas-end" style="background-color: rgb(255, 255, 255);" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                <h3 class="offcanvas-title" id="offcanvasNavbarLabel">GameLine</h3>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"id="xbutton"></button>
+                </div>
+                <div class="offcanvas-body">
+                <ul class="navbar-nav flex-grow-1 pe-3" id="offnavbar">
+                    <li class="nav-item">
+                    <a class="nav-link" href="../GameLine/Websiten/About_us/About_us.html" id="offnavbarColor">About Us</a>
+                    <a class="nav-link" href="#ProjectIdea" id="offnavbarColor">Our Project</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="offnavbarColor" href="#" id="offcanvasNavbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        More
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="offcanvasNavbarDropdown">
+                        <li><a class="dropdown-item" href="../GameLine/Websiten/Bernhard Reingruber/Ant_Attack.html" id="offnavbarColor">Ant Attack</a></li>
+                        <li><a class="dropdown-item" href="../GameLine/Websiten/Samuel Atzlesberger/Wolfensteiner3d.html" id="offnavbarColor">Wolfensteiner3d</a></li>
+                        <li><a class="dropdown-item" href="../GameLine/Websiten/Michael Werner/Unreal_Turnament.html" id="offnavbarColor">Unreal Tournament</a></li>
+                    </ul>
+                    </li>
+                </ul>
+
+                </div>
+            </div>
+            </div>
+        </nav>
+
+    
        <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: black;"> -->
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light " style="background-color: rgb(41, 8, 8);">
+        <!--<nav class="navbar navbar-expand-lg navbar-light bg-light " style="background-color: rgb(41, 8, 8);">
 
             
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,9 +77,11 @@
                 </li>                              
                 </ul>
             </div>
-        </nav>   
-            <br>
-            <br>
+        </nav>   -->
+
+        <br>
+        <br>
+        <br>
 
              
         <div class="row">
@@ -89,7 +127,7 @@
                                 <li class="list-inline-item event-list">
                                     <div class="px-4">
                                         <div class="event-date bg-soft-warning text-warning">2022</div>
-                                        <h5 class="font-size-16">Hover Game</h5>
+                                        <h5 class="font-size-16">Hover Fighter</h5>
                                         <p class="text-muted">Our videogame </p>
                                         <div>
                                             <a href="https://play.unity.com/mg/fps/webgl-builds-178290" class="btn btn-primary btn-sm">Play</a>
@@ -122,19 +160,20 @@
                     </p>
                     <br>
                     <br>
-                    <h2><mark>Our Project</mark></h2>
-                    <br>
-                    <br>
-                    <p>
-                        Our Project idea was to programm a little game, where you can jump, go right, left and shoot at enemies. To Programm this
-                        Game was at first very tricky, because we had no experience with 3d modells so we needed to download the templetes for the 
-                        3d modells. Then we needed to programm the elements for walking and shooting and how the enemies got hit and so on.
-                        We needed the entire easter holidays for the Game, but in the end it worked out. It looked great for our first game.
-                        The Link for the game is on the top of the main page. 
-                    </p>
+                    <div id="ProjectIdea">
+                        <h2><mark>Our Project</mark></h2>
+                        <br>
+                        <br>
+                        <p>
+                            Our Project idea was to programm a little game, where you can jump, go right, left and shoot at enemies. To Programm this
+                            Game was at first very tricky, because we had no experience with 3d modells so we needed to download the templetes for the 
+                            3d modells. Then we needed to programm the elements for walking and shooting and how the enemies got hit and so on.
+                            We needed the entire easter holidays for the Game, but in the end it worked out. It looked great for our first game.
+                            The Link for the game is on the top of the main page. 
+                        </p>
+                    </div>
+                    
                 </div>
-
-                
             </div>
         </div>
 
