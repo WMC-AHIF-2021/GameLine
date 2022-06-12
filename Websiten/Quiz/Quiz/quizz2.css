@@ -150,9 +150,9 @@ div.textBox{
   }
   
   .quiz-container {
-    background-color: #fff;
+    background-color: rgb(215, 235, 170);
     border-radius: 10px;
-    box-shadow: 0 0 10px 2px rgba(68, 63, 63, 0.6);
+    box-shadow: 0 0 10px 2px rgba(187, 198, 140, 0.6);
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -165,17 +165,17 @@ div.textBox{
     padding: 2.5rem;
   }
 
-  /*button {
-    background-color: rgb(77, 177, 130);
+  button {
+    background-color:  #212529;
     color: #fff;
     border: none;
     display: block;
-    width: 100%;
+    width: 20%;
     cursor: pointer;
     font-size: 1.1rem;
     font-family: inherit;
     padding: 1.3rem;
-  }*/
+  }
 
   /*.abcde {
     background-color: rgb(77, 177, 130);
@@ -206,13 +206,16 @@ div.textBox{
     margin-left: 40%;
   }
   #submit {
-    background-color: rgb(139, 155, 198);
+    background-color: rgb(41, 99, 107);
     color:rgb(0, 0, 0);
     margin-top: 2em;
-    height: 4em;
-    width: 43.75em;
+    margin-top: 2em;
+    height: 4.5em;
+    width: 44.75em;
     margin-left: -2.55em;
     margin-bottom: -2.5em;
   }
 
- 
+ .wallah{
+    background-color: rgb(31, 36, 7);
+ }
