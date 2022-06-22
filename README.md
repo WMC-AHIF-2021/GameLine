@@ -6,7 +6,7 @@
 ## Our Leader:
 Werner Michael
 
-## Our Project
+## Our Project:
   Why did we start this projekt? We decided to do this, because we wanted to see, how the early games looked liked. 
   Its also incredible how it all improved so much, compared to the games now. And GameLine is a website for the early games. 
   We show you how they looked like and what the task were. We also created our own game,
@@ -15,6 +15,7 @@ Werner Michael
   which are on top of the page and also the description of the programmer of the Webistes. Micheal and Samuel , we 2 created this Website.
   And the description is linked at the top of the page. 
 
-## Deadlines
+## Technologies:
+We work with HTML, CSS and Javascript.
 
 
